@@ -1,0 +1,22 @@
+html {
+    background-color: rgb(110, 110, 209);
+}
+h1{
+    color: rgb(205, 205, 241);
+    background-color: darkblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+h2{
+    color: beige;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    text-align: justify;
+}
+
+a:hover{
+    color: red;
+}
